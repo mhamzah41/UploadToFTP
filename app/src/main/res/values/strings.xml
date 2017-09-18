@@ -1,3 +1,11 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">CobaUploadFTP</string>
+=======
+    <string name="app_name">easyFTP</string>
+    <string name="title_activity_demo">easyFTP demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+>>>>>>> 27bd4b4cd0ffc2c2bef21730264f020f5f41ee33
 </resources>
